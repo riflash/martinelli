@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://clinicamartinelli.netlify.app/sitemap.xml
+Sitemap: https://main.d25x133q8a57m8.amplifyapp.com/sitemap.xml

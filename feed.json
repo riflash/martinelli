@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "martinelli-amplify-2",
     "description": "",
-    "home_page_url": "https://clinicamartinelli.netlify.app",
-    "feed_url": "https://clinicamartinelli.netlify.app/feed.json",
+    "home_page_url": "https://main.d25x133q8a57m8.amplifyapp.com",
+    "feed_url": "https://main.d25x133q8a57m8.amplifyapp.com/feed.json",
     "user_comment": "",
-    "icon": "https://clinicamartinelli.netlify.app/media/website/logo-svg.svg",
+    "icon": "https://main.d25x133q8a57m8.amplifyapp.com/media/website/logo-svg.svg",
     "author": {
         "name": "martinelli"
     },
     "items": [
         {
-            "id": "https://clinicamartinelli.netlify.app/martinelli-2.html",
-            "url": "https://clinicamartinelli.netlify.app/martinelli-2.html",
+            "id": "https://main.d25x133q8a57m8.amplifyapp.com/martinelli-2.html",
+            "url": "https://main.d25x133q8a57m8.amplifyapp.com/martinelli-2.html",
             "title": "Primo trattamento",
             "summary": "Primo trattamento E' quella branca dell'odontoiatria indirizzata alla diagnosi ed alla cura delle malposizioni dentarie ed alla correzione delle anomalie&hellip;",
             "content_html": "<h2>Primo trattamento</h2>\n<p> </p>\n<p>E' quella branca dell'odontoiatria indirizzata alla diagnosi ed alla cura delle malposizioni dentarie ed alla correzione delle anomalie schelettriche cranio-facciali.</p>\n<p>L'ortodonzia trasparente è la nuova frontiera dell'ortodonzia, permette di allineare i denti con apparecchiature trasparenti non visibili.</p>",
-            "image": "https://clinicamartinelli.netlify.app/media/posts/7/1.webp",
+            "image": "https://main.d25x133q8a57m8.amplifyapp.com/media/posts/7/1.webp",
             "author": {
                 "name": "martinelli"
             },
@@ -26,12 +26,12 @@
             "date_modified": "2024-03-23T18:32:10+01:00"
         },
         {
-            "id": "https://clinicamartinelli.netlify.app/odontoiatria-2.html",
-            "url": "https://clinicamartinelli.netlify.app/odontoiatria-2.html",
+            "id": "https://main.d25x133q8a57m8.amplifyapp.com/odontoiatria-2.html",
+            "url": "https://main.d25x133q8a57m8.amplifyapp.com/odontoiatria-2.html",
             "title": "Secondo trattamento",
             "summary": "Secondo trattamento La conservativa è quel settore dell'odontoiatria che si occupa del recupero degli elementi dentali compromessi dal processo carioso. La&hellip;",
             "content_html": "<h2>Secondo trattamento</h2>\n<p>La conservativa è quel settore dell'odontoiatria che si occupa del recupero degli elementi dentali compromessi dal processo carioso.</p>\n<p>La conservativa moderna utilizza materiali ad elevato valore estetico quali compositi fotopolimeri con tecniche adesive che permettono di ottenere risultati stabili nel tempo.</p>",
-            "image": "https://clinicamartinelli.netlify.app/media/posts/6/2.webp",
+            "image": "https://main.d25x133q8a57m8.amplifyapp.com/media/posts/6/2.webp",
             "author": {
                 "name": "martinelli"
             },
@@ -41,12 +41,12 @@
             "date_modified": "2024-03-23T18:32:17+01:00"
         },
         {
-            "id": "https://clinicamartinelli.netlify.app/medicina-estetica-2.html",
-            "url": "https://clinicamartinelli.netlify.app/medicina-estetica-2.html",
+            "id": "https://main.d25x133q8a57m8.amplifyapp.com/medicina-estetica-2.html",
+            "url": "https://main.d25x133q8a57m8.amplifyapp.com/medicina-estetica-2.html",
             "title": "Terzo trattamento",
             "summary": "Terzo trattamento L’utilizzo della tossina botulinica in campo estetico ha rivoluzionato l’approccio estetico al trattamento del volto. Il suo utilizzo nel&hellip;",
             "content_html": "<h2>Terzo trattamento</h2>\n<p> </p>\n<p>L’utilizzo della <strong>tossina botulinica</strong> in campo estetico ha rivoluzionato l’approccio estetico al trattamento del volto.</p>\n<p>Il suo utilizzo nel terzo superiore del volto porta ad un efficace lifting “chimico” completamente reversibile nell’arco di alcuni mesi.</p>\n<p>La <strong>tossina botulinica</strong> è il trattamento per eccellenza per la correzione delle rughe glabellari mentre le applicazioni “off label” sono la correzione delle rughe frontali perioculari e la cura delle iperidrosi.</p>\n<p>L’effetto dura circa 4-6 mesi.</p>",
-            "image": "https://clinicamartinelli.netlify.app/media/posts/5/3.webp",
+            "image": "https://main.d25x133q8a57m8.amplifyapp.com/media/posts/5/3.webp",
             "author": {
                 "name": "martinelli"
             },
@@ -56,12 +56,12 @@
             "date_modified": "2024-03-23T18:32:03+01:00"
         },
         {
-            "id": "https://clinicamartinelli.netlify.app/medicina-estetica.html",
-            "url": "https://clinicamartinelli.netlify.app/medicina-estetica.html",
+            "id": "https://main.d25x133q8a57m8.amplifyapp.com/medicina-estetica.html",
+            "url": "https://main.d25x133q8a57m8.amplifyapp.com/medicina-estetica.html",
             "title": "Medicina estetica",
             "summary": "Tossina Botulinica L’utilizzo della tossina botulinica in campo estetico ha rivoluzionato l’approccio estetico al trattamento del volto. Il suo utilizzo nel&hellip;",
             "content_html": "<h2>Tossina Botulinica</h2>\n<p> </p>\n<p>L’utilizzo della <strong>tossina botulinica</strong> in campo estetico ha rivoluzionato l’approccio estetico al trattamento del volto.</p>\n<p>Il suo utilizzo nel terzo superiore del volto porta ad un efficace lifting “chimico” completamente reversibile nell’arco di alcuni mesi.</p>\n<p>La <strong>tossina botulinica</strong> è il trattamento per eccellenza per la correzione delle rughe glabellari mentre le applicazioni “off label” sono la correzione delle rughe frontali perioculari e la cura delle iperidrosi.</p>\n<p>L’effetto dura circa 4-6 mesi.</p>",
-            "image": "https://clinicamartinelli.netlify.app/media/posts/3/3.webp",
+            "image": "https://main.d25x133q8a57m8.amplifyapp.com/media/posts/3/3.webp",
             "author": {
                 "name": "martinelli"
             },
@@ -72,12 +72,12 @@
             "date_modified": "2024-03-23T18:29:38+01:00"
         },
         {
-            "id": "https://clinicamartinelli.netlify.app/odontoiatria.html",
-            "url": "https://clinicamartinelli.netlify.app/odontoiatria.html",
+            "id": "https://main.d25x133q8a57m8.amplifyapp.com/odontoiatria.html",
+            "url": "https://main.d25x133q8a57m8.amplifyapp.com/odontoiatria.html",
             "title": "Odontoiatria",
             "summary": "Odontoiatria conservativa La conservativa è quel settore dell'odontoiatria che si occupa del recupero degli elementi dentali compromessi dal processo carioso. La&hellip;",
             "content_html": "<h2>Odontoiatria conservativa</h2>\n<p>La conservativa è quel settore dell'odontoiatria che si occupa del recupero degli elementi dentali compromessi dal processo carioso.</p>\n<p>La conservativa moderna utilizza materiali ad elevato valore estetico quali compositi fotopolimeri con tecniche adesive che permettono di ottenere risultati stabili nel tempo.</p>",
-            "image": "https://clinicamartinelli.netlify.app/media/posts/2/2.webp",
+            "image": "https://main.d25x133q8a57m8.amplifyapp.com/media/posts/2/2.webp",
             "author": {
                 "name": "martinelli"
             },
@@ -88,12 +88,12 @@
             "date_modified": "2024-03-23T18:29:44+01:00"
         },
         {
-            "id": "https://clinicamartinelli.netlify.app/martinelli.html",
-            "url": "https://clinicamartinelli.netlify.app/martinelli.html",
+            "id": "https://main.d25x133q8a57m8.amplifyapp.com/martinelli.html",
+            "url": "https://main.d25x133q8a57m8.amplifyapp.com/martinelli.html",
             "title": "Tecnologia",
             "summary": "Ortodonzia E' quella branca dell'odontoiatria indirizzata alla diagnosi ed alla cura delle malposizioni dentarie ed alla correzione delle anomalie schelettriche&hellip;",
             "content_html": "<h2>Ortodonzia</h2>\n<p> </p>\n<p>E' quella branca dell'odontoiatria indirizzata alla diagnosi ed alla cura delle malposizioni dentarie ed alla correzione delle anomalie schelettriche cranio-facciali.</p>\n<p>L'ortodonzia trasparente è la nuova frontiera dell'ortodonzia, permette di allineare i denti con apparecchiature trasparenti non visibili.</p>",
-            "image": "https://clinicamartinelli.netlify.app/media/posts/1/1.webp",
+            "image": "https://main.d25x133q8a57m8.amplifyapp.com/media/posts/1/1.webp",
             "author": {
                 "name": "martinelli"
             },

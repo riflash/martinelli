@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>martinelli-amplify-2</title>
-    <link href="https://clinicamartinelli.netlify.app/feed.xml" rel="self" />
-    <link href="https://clinicamartinelli.netlify.app" />
+    <link href="https://main.d25x133q8a57m8.amplifyapp.com/feed.xml" rel="self" />
+    <link href="https://main.d25x133q8a57m8.amplifyapp.com" />
     <updated>2024-03-23T18:32:17+01:00</updated>
     <author>
         <name>martinelli</name>
     </author>
-    <id>https://clinicamartinelli.netlify.app</id>
+    <id>https://main.d25x133q8a57m8.amplifyapp.com</id>
 
     <entry>
         <title>Primo trattamento</title>
         <author>
             <name>martinelli</name>
         </author>
-        <link href="https://clinicamartinelli.netlify.app/martinelli-2.html"/>
-        <id>https://clinicamartinelli.netlify.app/martinelli-2.html</id>
-        <media:content url="https://clinicamartinelli.netlify.app/media/posts/7/1.webp" medium="image" />
+        <link href="https://main.d25x133q8a57m8.amplifyapp.com/martinelli-2.html"/>
+        <id>https://main.d25x133q8a57m8.amplifyapp.com/martinelli-2.html</id>
+        <media:content url="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/7/1.webp" medium="image" />
 
         <updated>2024-03-23T18:30:17+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://clinicamartinelli.netlify.app/media/posts/7/1.webp" alt="" />
+                        <img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/7/1.webp" alt="" />
                     Primo trattamento E' quella branca dell'odontoiatria indirizzata alla diagnosi ed alla cura delle malposizioni dentarie ed alla correzione delle anomalie&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://clinicamartinelli.netlify.app/media/posts/7/1.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/7/1.webp" class="type:primaryImage" alt="" /></p>
                 <h2>Primo trattamento</h2>
 <p> </p>
 <p>E' quella branca dell'odontoiatria indirizzata alla diagnosi ed alla cura delle malposizioni dentarie ed alla correzione delle anomalie schelettriche cranio-facciali.</p>
@@ -40,20 +40,20 @@
         <author>
             <name>martinelli</name>
         </author>
-        <link href="https://clinicamartinelli.netlify.app/odontoiatria-2.html"/>
-        <id>https://clinicamartinelli.netlify.app/odontoiatria-2.html</id>
-        <media:content url="https://clinicamartinelli.netlify.app/media/posts/6/2.webp" medium="image" />
+        <link href="https://main.d25x133q8a57m8.amplifyapp.com/odontoiatria-2.html"/>
+        <id>https://main.d25x133q8a57m8.amplifyapp.com/odontoiatria-2.html</id>
+        <media:content url="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/6/2.webp" medium="image" />
 
         <updated>2024-03-23T18:30:13+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://clinicamartinelli.netlify.app/media/posts/6/2.webp" alt="" />
+                        <img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/6/2.webp" alt="" />
                     Secondo trattamento La conservativa è quel settore dell'odontoiatria che si occupa del recupero degli elementi dentali compromessi dal processo carioso. La&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://clinicamartinelli.netlify.app/media/posts/6/2.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/6/2.webp" class="type:primaryImage" alt="" /></p>
                 <h2>Secondo trattamento</h2>
 <p>La conservativa è quel settore dell'odontoiatria che si occupa del recupero degli elementi dentali compromessi dal processo carioso.</p>
 <p>La conservativa moderna utilizza materiali ad elevato valore estetico quali compositi fotopolimeri con tecniche adesive che permettono di ottenere risultati stabili nel tempo.</p>
@@ -65,20 +65,20 @@
         <author>
             <name>martinelli</name>
         </author>
-        <link href="https://clinicamartinelli.netlify.app/medicina-estetica-2.html"/>
-        <id>https://clinicamartinelli.netlify.app/medicina-estetica-2.html</id>
-        <media:content url="https://clinicamartinelli.netlify.app/media/posts/5/3.webp" medium="image" />
+        <link href="https://main.d25x133q8a57m8.amplifyapp.com/medicina-estetica-2.html"/>
+        <id>https://main.d25x133q8a57m8.amplifyapp.com/medicina-estetica-2.html</id>
+        <media:content url="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/5/3.webp" medium="image" />
 
         <updated>2024-03-23T18:30:08+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://clinicamartinelli.netlify.app/media/posts/5/3.webp" alt="" />
+                        <img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/5/3.webp" alt="" />
                     Terzo trattamento L’utilizzo della tossina botulinica in campo estetico ha rivoluzionato l’approccio estetico al trattamento del volto. Il suo utilizzo nel&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://clinicamartinelli.netlify.app/media/posts/5/3.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/5/3.webp" class="type:primaryImage" alt="" /></p>
                 <h2>Terzo trattamento</h2>
 <p> </p>
 <p>L’utilizzo della <strong>tossina botulinica</strong> in campo estetico ha rivoluzionato l’approccio estetico al trattamento del volto.</p>
@@ -93,21 +93,21 @@
         <author>
             <name>martinelli</name>
         </author>
-        <link href="https://clinicamartinelli.netlify.app/medicina-estetica.html"/>
-        <id>https://clinicamartinelli.netlify.app/medicina-estetica.html</id>
-        <media:content url="https://clinicamartinelli.netlify.app/media/posts/3/3.webp" medium="image" />
+        <link href="https://main.d25x133q8a57m8.amplifyapp.com/medicina-estetica.html"/>
+        <id>https://main.d25x133q8a57m8.amplifyapp.com/medicina-estetica.html</id>
+        <media:content url="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/3/3.webp" medium="image" />
             <category term="home"/>
 
         <updated>2024-03-23T15:58:33+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://clinicamartinelli.netlify.app/media/posts/3/3.webp" alt="" />
+                        <img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/3/3.webp" alt="" />
                     Tossina Botulinica L’utilizzo della tossina botulinica in campo estetico ha rivoluzionato l’approccio estetico al trattamento del volto. Il suo utilizzo nel&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://clinicamartinelli.netlify.app/media/posts/3/3.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/3/3.webp" class="type:primaryImage" alt="" /></p>
                 <h2>Tossina Botulinica</h2>
 <p> </p>
 <p>L’utilizzo della <strong>tossina botulinica</strong> in campo estetico ha rivoluzionato l’approccio estetico al trattamento del volto.</p>
@@ -122,21 +122,21 @@
         <author>
             <name>martinelli</name>
         </author>
-        <link href="https://clinicamartinelli.netlify.app/odontoiatria.html"/>
-        <id>https://clinicamartinelli.netlify.app/odontoiatria.html</id>
-        <media:content url="https://clinicamartinelli.netlify.app/media/posts/2/2.webp" medium="image" />
+        <link href="https://main.d25x133q8a57m8.amplifyapp.com/odontoiatria.html"/>
+        <id>https://main.d25x133q8a57m8.amplifyapp.com/odontoiatria.html</id>
+        <media:content url="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/2/2.webp" medium="image" />
             <category term="home"/>
 
         <updated>2024-03-23T15:57:35+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://clinicamartinelli.netlify.app/media/posts/2/2.webp" alt="" />
+                        <img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/2/2.webp" alt="" />
                     Odontoiatria conservativa La conservativa è quel settore dell'odontoiatria che si occupa del recupero degli elementi dentali compromessi dal processo carioso. La&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://clinicamartinelli.netlify.app/media/posts/2/2.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/2/2.webp" class="type:primaryImage" alt="" /></p>
                 <h2>Odontoiatria conservativa</h2>
 <p>La conservativa è quel settore dell'odontoiatria che si occupa del recupero degli elementi dentali compromessi dal processo carioso.</p>
 <p>La conservativa moderna utilizza materiali ad elevato valore estetico quali compositi fotopolimeri con tecniche adesive che permettono di ottenere risultati stabili nel tempo.</p>
@@ -148,21 +148,21 @@
         <author>
             <name>martinelli</name>
         </author>
-        <link href="https://clinicamartinelli.netlify.app/martinelli.html"/>
-        <id>https://clinicamartinelli.netlify.app/martinelli.html</id>
-        <media:content url="https://clinicamartinelli.netlify.app/media/posts/1/1.webp" medium="image" />
+        <link href="https://main.d25x133q8a57m8.amplifyapp.com/martinelli.html"/>
+        <id>https://main.d25x133q8a57m8.amplifyapp.com/martinelli.html</id>
+        <media:content url="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/1/1.webp" medium="image" />
             <category term="home"/>
 
         <updated>2024-03-23T13:14:48+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://clinicamartinelli.netlify.app/media/posts/1/1.webp" alt="" />
+                        <img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/1/1.webp" alt="" />
                     Ortodonzia E' quella branca dell'odontoiatria indirizzata alla diagnosi ed alla cura delle malposizioni dentarie ed alla correzione delle anomalie schelettriche&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://clinicamartinelli.netlify.app/media/posts/1/1.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://main.d25x133q8a57m8.amplifyapp.com/media/posts/1/1.webp" class="type:primaryImage" alt="" /></p>
                 <h2>Ortodonzia</h2>
 <p> </p>
 <p>E' quella branca dell'odontoiatria indirizzata alla diagnosi ed alla cura delle malposizioni dentarie ed alla correzione delle anomalie schelettriche cranio-facciali.</p>
